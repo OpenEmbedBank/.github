@@ -1,7 +1,5 @@
 # OpenEmbedBank
 
-**An open bank of reusable pretrained model representations across datasets, modalities, and domains.**
+Research software for reproducible machine-learning workflows.
 
-OpenEmbedBank aims to make standardized, precomputed embeddings from foundation and pretrained models readily accessible for downstream research, without requiring researchers to repeatedly run large model encoders.
-
-🚧 **Project under development.**
+> Project under active development. Documentation and resources will be released with the associated research work.
